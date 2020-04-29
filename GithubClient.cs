@@ -11,7 +11,7 @@ namespace PushSampleDataToSentinelLogs
 {
     public class Github
     {
-        static readonly string access_token = "21de750f22a2a6283248d21380173074ca8ec575";
+        static readonly string access_token = "<enter personal Github access token here>";
         public Github()
         {
             
